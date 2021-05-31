@@ -1,2 +1,2 @@
 # Software_testing
-test_suite
+Fully functional test suite
